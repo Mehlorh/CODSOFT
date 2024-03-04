@@ -37,7 +37,7 @@ def calculate(num1, num2):
     else:
         print("Invalid Choice")
 
-    print("The result is: ", answer)
+    print("The answer is: ", answer)
 
 if __name__ == "__main__":
     calculate(num1, num2)
